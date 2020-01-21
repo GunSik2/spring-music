@@ -1,4 +1,4 @@
-Spring Music2
+Spring Music3
 ============
 
 This is a sample application for using database services on [Cloud Foundry](http://cloudfoundry.org) with the [Spring Framework](http://spring.io).
